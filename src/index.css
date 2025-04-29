@@ -48,16 +48,19 @@ img {
 .footer-nav a {
   color: tomato;
   text-decoration: none;
+  justify-content: space-between;
+
 }
 
 /* blog post title style */
 article h2 {
-  font-size: 1.8rem;
+  font-size: 3 rem;
+  color: lightgray;
 }
 
 /* space between articles + border */
 article {
-  margin-bottom: 4rem;
+  margin-bottom: 3 rem;
   border-bottom: 1px solid lightgray;
   padding-bottom: 2rem;
 }
@@ -78,4 +81,8 @@ article p::first-letter {
 /* copyright text */
 footer p {
   color: lightgray;
+}
+.footer-nav{
+  justify-content: space-between;
+
 }

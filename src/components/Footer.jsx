@@ -10,7 +10,11 @@ export default function Footer() {
         <li><a href="#">AdWatch</a></li>
         <li><a href="#">About</a></li>
       </ul>
+
+
       
+      <p>&copy; 2013 Valet Industries, Inc</p>
+
     </footer>
   );
 }
