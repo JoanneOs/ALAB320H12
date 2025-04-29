@@ -42,7 +42,7 @@ img {
 /* nav link colors */
 .main-nav a {
   color: lightgray;
-  text-decoration: none;
+  text-decoration: underline;
 }
 
 .footer-nav a {
