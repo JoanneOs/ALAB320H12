@@ -2,10 +2,15 @@
 export default function Footer() {
   return (
     <footer>
-      {/* site title */}
-      <h1>fashion blog</h1>
-      {/* site subtitle */}
-      <h2>latest trends & style tips</h2>
+     <ul className="footer-nav">
+        <li><a href="#">women's</a></li>
+        <li><a href="#">men's</a></li>
+        <li><a href="#">On the Street</a></li>
+        <li><a href="#">The Catwalk</a></li>
+        <li><a href="#">AdWatch</a></li>
+        <li><a href="#">About</a></li>
+      </ul>
+      
     </footer>
   );
 }

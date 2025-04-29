@@ -14,7 +14,7 @@ export default function Main() {
         title="summer vibes 2025"
         image={summerImg}
         alt="a woman wearing summer fashion"
-        text="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla volutpat justo..."
+        text="Cccc olor sit amet, consectetur adipiscing elit. Suspendisse eget.olor sit amet, consectetur adipiscing elit. Suspendisse eget.olor sit amet, consectetur adipiscing elit. Suspendisse eget.olor sit amet, consectetur adipiscing elit. Suspendisse eget.olor sit amet, consectetur adipiscing elit. Suspendisse eget.olor sit amet, consectetur adipiscing elit. Suspendisse eget.olor sit amet, consectetur adipiscing elit. Suspendisse eget.olor sit amet, consectetur adipiscing elit. Suspendisse eget.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla volutpat justo..."
       />
 
       {/* blog post two */}
@@ -22,7 +22,7 @@ export default function Main() {
         title="cozy winter layers"
         image={winterImg}
         alt="a man in cozy winter clothes"
-        text="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse eget..."
+        text="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse eget.olor sit amet, consectetur adipiscing elit. Suspendisse eget.olor sit amet, consectetur adipiscing elit. Suspendisse eget.olor sit amet, consectetur adipiscing elit. Suspendisse eget.olor sit amet, consectetur adipiscing elit. Suspendisse eget.olor sit amet, consectetur adipiscing elit. Suspendisse eget.olor sit amet, consectetur adipiscing elit. Suspendisse eget.olor sit amet, consectetur adipiscing elit. Suspendisse eget.olor sit amet, consectetur adipiscing elit. Suspendisse eget.olor sit amet, consectetur adipiscing elit. Suspendisse eget.olor sit amet, consectetur adipiscing elit. Suspendisse eget..."
       />
     </main>
   );
